@@ -6,6 +6,12 @@
 
 ### ¡Bienvenido al proyecto con las clases base del desafío Foro Alura con Java y Spring! 
 
+## Credentiales de acceso
+
+### Usuario admin
+
+- **Username:** admin
+- **Password:** admin
 
 ### Pasos principales:
 
